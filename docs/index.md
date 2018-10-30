@@ -22,7 +22,7 @@ The stationxml-seed-converter is a tool used to convert seismological metadata b
   `java -jar /PATH/TO/stationxml-seed-converter-2.0.0.jar --input /PATH/TO/Dataless_directory --output /PATH/TO/DX_Directory/dataless.converted.xml`
   
 
-### Errror
+### Error
 
 The converter throws exception errors if the byte length of stationXML values exceeds the dataless predefined format or if a dataless files are mis-formatted or corrupt. Refer to the [SEED manual](https://www.fdsn.org/seed_manual/SEEDManual_V2.4.pdf) for further help and documetation. 
 
