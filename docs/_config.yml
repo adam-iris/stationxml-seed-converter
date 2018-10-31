@@ -2,4 +2,5 @@ name: IRIS_DMC_Ops
 title: seed-xml-converter
 markdown: kramdown
 auto: true
+remote_theme: adam-iris/theme_ghpages
 
