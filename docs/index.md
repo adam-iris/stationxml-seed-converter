@@ -3,7 +3,7 @@ title: Home
 ---
 
 
-# Test User's Guide to the IRIS stationxml-seed-converter
+# User's Guide to the IRIS stationxml-seed-converter
 
 ## Description
 
